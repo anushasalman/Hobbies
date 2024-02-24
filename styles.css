@@ -1,0 +1,70 @@
+section {
+  margin: 1px;
+}
+
+.header {
+  color: whitesmoke;
+  text-align: center;
+  font-size: large;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+
+  color: whitesmoke;
+  background-color: darkseagreen;
+  font-size: x-large;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+
+  .links {
+    color: pink;
+    font-size: large;
+  }
+
+  .facts {
+    color:whitesmoke;
+    text-align: left;
+  }
+
+  .painting {
+    height: 200px;
+    width: 200px;
+    padding: 80px;
+    display: flex;
+    }
+
+  .art {
+    height: 200px;
+    width: 200px;
+    padding: 80px;
+    display: flex;
+    }
+
+  .tennis {
+    height: 200px;
+    width: 200px;
+    padding: 80px;
+    display: flex;
+    }
+
+  .videogames {
+    height: 200px;
+    width: 200px;
+    padding: 80px;
+    display: flex;
+  }
+
+  .serena {
+    height: 200px;
+    width: 200px;
+    padding: 40px;
+    margin: 40px;
+    display: flex;
+  }
+  }
+
+
+
+
+
